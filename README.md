@@ -1,2 +1,0 @@
-# MyPortofolio
-Tugas UAS
